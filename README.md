@@ -1,4 +1,5 @@
 <b>time me</b>
+============
 
 this program logs how long you spend on a task in a file - log. <br>
 a current task is recorded with the "start" parameter<br>
