@@ -1,7 +1,7 @@
 <b>time me</b>
 ============
 
-a simple bash script which records how long you spend on a task in a log. <br>
+a simple bash script which records how long you spend on a task. <br>
 
 <br>
 <b>arguments:</b><br>
