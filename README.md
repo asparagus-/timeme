@@ -1,9 +1,8 @@
 <b>time me</b>
 ============
 
-this program logs how long you spend on a task in a file - log. <br>
-a current task is recorded with the "start" parameter<br>
-a current task is ended and saved in the log with the "end" parameter<br>
+a simple bash script which records how long you spend on a task in a log. <br>
+
 <br>
 <b>arguments:</b><br>
 start - start a new task to be recorded<br>
