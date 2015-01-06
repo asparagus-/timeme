@@ -9,7 +9,7 @@ start - start a new task to be recorded<br>
 end   - end task. save task description and amount of time spent<br>
 read  - read a list of past tasks completed<br>
 clear - erase the log of tasks completed<br>
-* this menu will be printed when no arguements are passed<br>
+this menu will be printed when no arguements are passed<br>
 <br>
 example use:<br>
 user@linux:~/bin/timer$ timeme start<br>
