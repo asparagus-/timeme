@@ -13,7 +13,7 @@ this menu will be printed when no arguements are passed<br>
 <br>
 example use:<br>
 user@linux:~/bin/timer$ timeme start<br>
-- - -- -- - -- -- - - - -- - - -- - -- - -- -- - -- - - -<br>
+<br>
 <br>
  whaat are you up to?<br>
  :> washing dishes<br>
@@ -22,7 +22,7 @@ user@linux:~/bin/timer$ timeme start<br>
  saved<br>
 <br>
 user@linux:~/bin/timer$ timeme end<br>
-- - -- -- - -- -- - - - -- - - -- - -- - -- -- - -- - - -<br>
+<br>
 <br>
  You spent 0 hours, 7 minutes, and 35 seconds with this task:<br>
  "washing dishes"<br>
@@ -32,7 +32,7 @@ user@linux:~/bin/timer$ timeme end<br>
  task logged and exited<br>
 <br>
 user@linux:~/bin/timer$ timeme read<br>
-- - -- -- - -- -- - - - -- - - -- - -- - -- -- - -- - - -<br>
+<br>
 <br>
  0:13:49 - eating dinner<br>
  0:7:35 - washing dishes<br>
